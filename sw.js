@@ -9,7 +9,7 @@
 /* Stamped by publish-pages.js. It has to change on every publish, or the
    browser sees identical bytes, keeps the old worker, and the old cache with
    it. */
-const VERSION = "chinahub-261102T0718";
+const VERSION = "chinahub-261104T1040";
 const SHELL = [
   "./",
   "./index.html",
